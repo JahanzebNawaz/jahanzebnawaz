@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jahanzeb Nawaz</h1>
 <h3 align="center">A passionate Backend Engineer from Sweden</h3>
 
-<p>Jahanzeb Nawaz, a dedicated Software Engineer with a passion for leveraging technology to solve complex real-world challenges. Currently specializing in Blockchain technology, the cornerstone of Web3, I'm committed to driving innovation in this transformative field. With a strong foundation in software engineering and a keen interest in cybersecurity, I continually explore emerging technologies to stay at the forefront of technological advancements.</p>
+<p>a dedicated Software Engineer with a passion for leveraging technology to solve complex real-world challenges. Currently specializing in Blockchain technology, the cornerstone of Web3, I'm committed to driving innovation in this transformative field. With a strong foundation in software engineering and a keen interest in cybersecurity, I continually explore emerging technologies to stay at the forefront of technological advancements.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahanzebnawaz&label=Profile%20views&color=0e75b6&style=flat" alt="jahanzebnawaz" /> </p>
 
